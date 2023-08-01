@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Git-LCS/static/css/main.073c9b0a.css",
+    "main.js": "/Git-LCS/static/js/main.8265d57f.js",
+    "static/js/787.cda612ba.chunk.js": "/Git-LCS/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Git-LCS/index.html",
+    "main.073c9b0a.css.map": "/Git-LCS/static/css/main.073c9b0a.css.map",
+    "main.8265d57f.js.map": "/Git-LCS/static/js/main.8265d57f.js.map",
+    "787.cda612ba.chunk.js.map": "/Git-LCS/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8265d57f.js"
+  ]
+}
